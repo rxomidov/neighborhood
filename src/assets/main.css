@@ -230,3 +230,67 @@ li{
   padding-top: 8px;
   display: flex;
 }
+.onm-login__page {
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  align-items: stretch;
+}
+.onm-login {
+  width: 50%;
+  min-width: 400px;
+  margin: 0 auto;
+}
+.onm-login__form--card {
+  flex: 1;
+  padding: 30px 32px;
+  background-color: #fff;
+}
+.onm-login__banner {
+  flex: 1;
+  padding: 0 32px;
+  position: relative;
+  background-color: green;
+  background-size: cover;
+  background-position: center center;
+  background-image: url(https://online-mahalla.uz/media/store//img/login-banner.svg);
+}
+.onm-login__links {
+  position: absolute;
+  bottom: 50px;
+  display: flex;
+  gap: 10px;
+  list-style: none;
+  filter: brightness(0) invert(1);
+  opacity: 0.8;
+  transition: 0.3s;
+}
+.onm-login__form--login {
+  margin-bottom: 23px;
+}
+.onm-login__form--item {
+  margin-bottom: 17px;
+}
+.onm-login__form--item {
+  margin-bottom: 17px;
+}
+.onm-login__form--item > label {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  color: #000000;
+  margin-bottom: 12px;
+  font-family: 'PT Sans Caption', sans-serif;
+}
+.onm-login__form--item input {
+  width: 100%;
+  outline: none;
+  padding: 16px;
+  padding-left: 41px;
+  border-radius: 5px;
+  border: 1px solid #E1EDF7;
+}
