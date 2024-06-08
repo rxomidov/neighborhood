@@ -11,7 +11,7 @@
 
             </h3></div> <form class="onm-login__form"><div class="onm-login__form--item">
               <label>Логин</label> <span><input type="text" placeholder="Киритиш"></span>
-              </div> <div class="onm-login__form--item"><label>Парол</label> <span>
+              </div> <div class="onm-login__form--item" style="position: relative;"><label>Парол</label> <span>
                 <input placeholder="Парол" type="password"> <span class="onm-login__eye">
                   <img src="https://online-mahalla.uz/media/store/img/hide-password.svg" alt="online-mahalla"></span></span>
                   </div> <!----> <div class="onm-login__actions d-flex flex-column align-items-center">

@@ -234,14 +234,16 @@ li{
   top: 50%;
   left: 50%;
   width: 100%;
+  height: 100%;
   position: fixed;
   transform: translate(-50%, -50%);
   align-items: stretch;
+  background-color: lightsteelblue;
 }
 .onm-login {
   width: 50%;
   min-width: 400px;
-  margin: 0 auto;
+  margin: 6rem auto;
 }
 .onm-login__form--card {
   flex: 1;
@@ -293,4 +295,23 @@ li{
   padding-left: 41px;
   border-radius: 5px;
   border: 1px solid #E1EDF7;
+}
+.onm-login__eye {
+  top: 52%;
+  right: 15px;
+  cursor: pointer;
+  position: absolute;
+}
+.onm-btn--w100p {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.onm-btn--dark-blue {
+  color: white;
+  border: 1px solid #100448;
+  background-color: #100448;
+}
+.onm-btn--r5 {
+  border-radius: 5px;
 }
