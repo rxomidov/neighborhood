@@ -223,6 +223,7 @@ li{
 .main-footer {
   padding: 45px 0;
   background-color: #383f64;
+  color: white;
 }
 .main-footer__list ul {
   list-style: none;
@@ -233,12 +234,15 @@ li{
   font-weight: 500;
   font-size: 14px;
   line-height: 50px;
-  color: #515151;
+  color: #efefef;
 }
 .main-footer2 {
   background-color: #5e668d;
   padding-top: 8px;
   display: flex;
+}
+.main-footer2--left{
+  color: white;
 }
 .onm-login__page {
   top: 50%;
