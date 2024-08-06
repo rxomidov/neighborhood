@@ -47,82 +47,82 @@ import TheWelcome from '../components/TheWelcome.vue'
     </div>
   </div>
   <section id="main" class="main-section"><div class="main-section__wrapper"><div class="container"><h1>
-          «Маҳалла» - электрон платформаси
+          «Mahalla» - elektron platformasi
         </h1> <p>
-          Маҳаллабай ишлаш маркази ва маҳалла фуқаролар йиғини фаолиятини
-          ўзаро боғлиқ ҳолда рақамлаштиришни назарда тутувчи электрон платформа
+          Mahallabay ishlash markazi va mahalla fuqarolar yig‘ini faoliyatini
+          o‘zaro bog‘liq holda raqamlashtirishni nazarda tutuvchi elektron platforma
         </p> <div class="main-section__buttons"><button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz@/assets/docs/hy_info.pdf" target="_blank"><span name="title"> Қўлланма </span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz/public/forms/study_nntt_direction" target="_blank"><span name="title"> Ўқишга йўналтириш <br> (ННТ/НТТ)</span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz/public/forms/subsidy" target="_blank"><span name="title"> Субсидияга ариза </span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://murojaat.gov.uz" target="_blank"><span name="title"> Онлайн мурожаатнома</span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz/public/pages/reestr" target="_blank"><span name="title" alt="reestr"> Электрон реестр </span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://my.chamber.uz/" target="_blank"><span name="title"> 20 минг тадбиркор </span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz/public/forms/subsidy_craftsman" target="_blank"><span name="title"> Ҳунармандчилик <br> субсидияси </span></a> </button></div> <br></div></div></section>
-        <section class="business-plans container-fluid"><div class="container business-plans"><div class="business-plans-heading-wrapper"><h1 class="business-plans-heading">Бизнес навигатор</h1></div> <a href="/public/pages/growthpoints-page" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/house.svg" alt="icon"> <div><h4 class="business-plans__card--title">
-            Ўсиш нуқталари
+        <section class="business-plans container-fluid"><div class="container business-plans"><div class="business-plans-heading-wrapper"><h1 class="business-plans-heading">Biznesga yo'naltiruv</h1></div> <a href="/public/pages/growthpoints-page" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/house.svg" alt="icon"> <div><h4 class="business-plans__card--title">
+          O‘sish nuqtalari
           </h4> <p class="business-plans__card--desc">
-            Маҳалладаги ижтимоий-иқтисодий ҳолатнии хонадонбай ўрганиш
+            Mahalladagi ijtimoiy-iqtisodiy holatnii xonadonbay o‘rganish
           </p> <div class="business-plans__card--more">
-            Батафсил
+            Batafsil
             <img src="@/assets/img/arrow-right.svg" alt="icon" class="main-more-icon"></div></div></div></a><a href="/public/pages/business_plans-page" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/growth.svg" alt="icon"> <div><h4 class="business-plans__card--title">
-            Бизнес-режа лойиҳаси ва ҳужжатлар тўплами
+              Biznes-reja loyihasi va hujjatlar to‘plami
           </h4> <p class="business-plans__card--desc">
-            Мавжуд бизнес режалар
+            Mavjud biznes rejalar
           </p> <div class="business-plans__card--more">
-            Батафсил
+            Batafsil
             <img src="@/assets/img/arrow-right.svg" alt="icon" class="main-more-icon"></div></div></div></a><a href="/public/pages/preferences-new" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/work-from-home.svg" alt="icon"> <div><h4 class="business-plans__card--title">
-            Имтиёз ва преференциялар тўғрисида маълумот
+              Imtiyoz va preferensiyalar to‘g‘risida ma’lumot
           </h4> <p class="business-plans__card--desc">
-            Мавжуд имтиёз ва преференциялар ва уларни олиш учун зарур бўлган хужжатлар тўплами
+            Mavjud imtiyoz va preferensiyalar va ularni olish uchun zarur bo‘lgan xujjatlar to‘plami
           </p> <div class="business-plans__card--more">
-            Батафсил
+            Batafsil
             <img src="@/assets/img/arrow-right.svg" alt="icon" class="main-more-icon"></div></div></div></a><a href="/public/pages/new_auctionpage?index=1&amp;page=1&amp;order=0" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/headhunting.svg" alt="icon"> <div><h4 class="business-plans__card--title">
-            Тадбиркорлик фаолиятини амалга ошириш учун кўчмас мулк объектлари
+              Tadbirkorlik faoliyatini amalga oshirish uchun ko‘chmas mulk obyektlari
           </h4> <p class="business-plans__card--desc">
-            Бўш турган кўчмас мулк тўғрисидаги маълумотлар
+            Bo‘sh turgan ko‘chmas mulk to‘g‘risidagi ma’lumotlar
           </p> <div class="business-plans__card--more">
-            Батафсил
+            Batafsil
             <img src="@/assets/img/arrow-right.svg" alt="icon" class="main-more-icon"></div></div></div></a></div></section>      
 
 
 
 
 <section class="business-plans bs__bg container-fluid"><div class="container business-plans"><div class="business-plans-heading-wrapper-heading-wrapper"><h1 class="business-plans-heading">Аҳоли ва тадбиркорлар учун хизматлар соҳасидаги имкониятлар</h1></div> <div class="business-cards-modal-wrapper"><a href="/public/pages/profitable-services" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/card-img1.svg" alt="icon"> <div><h4 class="business-plans__card--title">
-			   Даромадли хизматлар
+  Daromadli xizmatlar
 			 </h4> <p class="business-plans__card--desc">
-			   Аҳоли ва тадбиркорлик субъектларига фаолиятини ташкил этиш мумкин бўлган даромадли хизматлар
+        Aholi va tadbirkorlik subyektlariga faoliyatini tashkil etish mumkin bo‘lgan daromadli xizmatlar
 			 </p> <div class="business-plans__card--more">
-			   Батафсил
+			   Batafsil
 			   <img src="@/assets/img/arrow-right.svg" alt="icon" class="main-more-icon"></div></div></div></a><a href="/public/pages/project-offices" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/card-img2.svg" alt="icon"> <div><h4 class="business-plans__card--title">
-			   Лойиҳа офислари
+          Loyiha ofislari
 			 </h4> <p class="business-plans__card--desc">
-			   Хизмат кўрсатиш соҳасида янги лойиҳаларни амалга ошириш учун тайёр бизнес ғоялар, лойиҳа таклифлари ва бошқа маслаҳат хизматларини кўрсатувчи лойиҳа офислари
+        Xizmat ko‘rsatish sohasida yangi loyihalarni amalga oshirish uchun tayyor biznes g‘oyalar, loyiha takliflari va boshqa maslahat xizmatlarini ko‘rsatuvchi loyiha ofislari
 			 </p> <div class="business-plans__card--more">
-			   Батафсил
+			   Batafsil
 			   <img src="@/assets/img/arrow-right.svg" alt="icon" class="main-more-icon"></div></div></div></a><a href="/public/pages/auction-sales" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/card-img3.svg" alt="icon"> <div><h4 class="business-plans__card--title">
-			   Аукцион савдолар
+          Auksion savdolar
 			 </h4> <p class="business-plans__card--desc">
-			   Хизмат кўрсатиш объектларини ташкил этиш мақсадлари учун аукцион савдоларга чиқарилган ер майдонлари ва бино-иншоатлар
+        Xizmat ko‘rsatish obyektlarini tashkil etish maqsadlari uchun auksion savdolarga chiqarilgan yer maydonlari va bino-inshoatlar
 			 </p> <div class="business-plans__card--more">
-			   Батафсил
+			   Batafsil
 			   <img src="@/assets/img/arrow-right.svg" alt="icon" class="main-more-icon"></div></div></div></a><a href="/public/pages/benefits-amenities" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/card-img4.svg" alt="icon"> <div><h4 class="business-plans__card--title">
-			   Имтиёзлар ва қулайликлар
+          Imtiyozlar va qulayliklar
 			 </h4> <p class="business-plans__card--desc">
-			   Хизмат кўрсатиш соҳасидаги имтиёзлар ва қулайликлар
+        Xizmat ko‘rsatish sohasidagi imtiyozlar va qulayliklar
 			 </p> <div class="business-plans__card--more">
-			   Батафсил
+			   Batafsil
 			   <img src="@/assets/img/arrow-right.svg" alt="icon" class="main-more-icon"></div></div></div></a><a href="/public/pages/prefential-credits" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/card-img5.svg" alt="icon"> <div><h4 class="business-plans__card--title">
-			   Имтиёзли кредитлар
+          Imtiyozli kreditlar
 			 </h4> <p class="business-plans__card--desc">
-			   Хизмат кўрсатиш соҳаси учун имтиёзли кредитлар
+          Xizmat ko‘rsatish sohasi uchun imtiyozli kreditlar
 			 </p> <div class="business-plans__card--more">
-			   Батафсил
+			   Batafsil
 			   <img src="@/assets/img/arrow-right.svg" alt="icon" class="main-more-icon"></div></div></div></a><a href="https://simyogoch.uz" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/card-img66.svg" alt="icon"> <div><h4 class="business-plans__card--title">
-			   Simyog’och платформаси
+			   Simyog’och platformasi
 			 </h4> <p class="business-plans__card--desc">
-			   Ўзингизга керак бўлган ишни ёхуд ишчини топиш учун қулай платформа.
+        O‘zingizga kerak bo‘lgan ishni yoxud ishchini topish uchun qulay platforma.
 			 </p> <div class="business-plans__card--more">
-			   Батафсил
+			   Batafsil
 			   <img src="@/assets/img/arrow-right.svg" alt="icon" class="main-more-icon"></div></div></div></a><a href="/public/pages/map" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/card-img5.svg" alt="icon"> <div><h4 class="business-plans__card--title">
-			   Маҳаллалар рейтинги
+          Mahallalar reytingi
 			 </h4> <p class="business-plans__card--desc">
-			   Ўзбекистон Республикаси маҳаллалар рейтинги
+        O‘zbekiston Respublikasi mahallalar reytingi
 			 </p> <div class="business-plans__card--more">
-			   Батафсил
+			   Batafsil
 			   <img src="@/assets/img/arrow-right.svg" alt="icon" class="main-more-icon"></div></div></div></a></div></div></section>
 
 
@@ -130,8 +130,8 @@ import TheWelcome from '../components/TheWelcome.vue'
          <section class="main-gallery">
           <div class="container">
             <div class="main-gallery__header mb-5">
-              <h1 class="text-center">Галерея</h1> 
-              <p class="text-center">«Ҳоким ёрдамчи»лари фаолиятидан фото ва видео лавҳалар</p></div>
+              <h1 class="text-center">Galereya</h1> 
+              <p class="text-center">«Hokim yordamchi»lari faoliyatidan foto va video lavhalar</p></div>
                <div class="d-flex">
                 <div class="col-6">
                   <div class="bg-gallery pic mb-3" style="width: calc(100% - 15px);">
@@ -152,7 +152,7 @@ import TheWelcome from '../components/TheWelcome.vue'
                             </div></div></div> <a href="/public/pages/page_gallery" class="">
                               <div class="onm-btn-more d-flex justify-content-center align-items-center">
                                 <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center">
-                                  <span name="title">Кўпроқ юклаш</span> </button>
+                                  <span name="title">Ko‘proq yuklash</span> </button>
                       </div></a>
                 </div>
             </section>
@@ -160,13 +160,13 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 
             <footer><div class="main-footer"><div class="container"><div class="row justify-content-between"><div class="col-md-5 col-sm-12 main-footer__logo-line"><a href="/" aria-current="page" class="router-link-exact-active router-link-active"><img src="@/assets/img/header-logo.png" alt="footer"></a> <p>
-              Юнусобод тумани, Амир Темур шох кўчаси
+              Yunusobod tumani, Amir Temur shox ko‘chasi
             </p> <a href="mailto:info@mahalla.uz"><p class="ml-2">info@mahalla.uz</p></a> <a class="m-0">www.mahalla.uz</a></div> <div class="col-lg-2 col-sm-12 col-md-3 main-footer__list"><h2>
-              Менюлар
+              Menyular
             </h2> <ul><li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Бош саҳифа</a></li> <li><a href="/public/pages/about" class="">Тизим ҳақида</a></li> <li><a href="#" class="">Янгиликлар</a></li> <li><a href="/#faq">Савол-жавоб</a></li> <li><a href="#" target="_blank">Боғланиш</a></li></ul></div> <div class="col-md-4 col-sm-12 main-footer__list"><h2>
-              Мобил иловалар
+              Mobil ilovalar
             </h2> <ul class="footer-socials"><li class="mb-2"><div class="google-play-icon cursor-pointer"><a href="#" target="_blank"><img src="@/assets/img/google-play.svg"></a></div></li> <li><a href="#" class="main-footer__mobilelink"><button type="button" class="onm-btn onm-header__list-btn onm-btn-197 d-flex align-items-center justify-content-between" style="backdrop-filter: blur(20px);"><span>E-IMZO Mobile</span> <img src="@/assets/img/log-in-blue.svg" alt="login icon"> </button></a></li></ul></div></div></div></div> <div class="main-footer2"><div class="container"><div class="d-flex justify-content-between"><div class="main-footer2--left">
-          © «Маҳалла». Барча ҳуқуқлар ҳимояланган
+          © «Mahalla». Barcha huquqlar himoyalangan
         </div> <div class="main-footer2--right d-flex"><div class="d-flex"><p class="mr-3"><a href="#"><img src="@/assets/img/telegram_black.svg" alt="footer" class="pointer"></a></p> <p><a href="#"><img src="@/assets/img/instagram_black.svg" alt="footer" class="pointer"></a></p></div> <div class="ml-5"><a href="#" target="_top"></a></div></div></div></div></div></footer>
   </main>
 </template>
