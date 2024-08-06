@@ -36,7 +36,7 @@ import TheWelcome from '../components/TheWelcome.vue'
           </a>
           </div>
           <div class="onm-header__list d-flex justify-content-between align-items-center">
-            <ul class="list-group d-flex flex-row list-style-none align-items-center justify-content-between"><li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Bosh sahifa</a></li> <li><a href="/public/pages/about" class="">Tizim haqida</a>
+            <ul class="list-group d-flex flex-row list-style-none align-items-center justify-content-between"><li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Bosh sahifa</a></li> <li><a  class="router-link-exact-active router-link-active" href="/public/pages/about">Tizim haqida</a>
             </li>
             <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Onlayn axborotnoma</a></li> <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Savol-javob</a></li> <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Bog‘lanish</a></li>
             </ul>
@@ -81,7 +81,7 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 
 
-<section class="business-plans bs__bg container-fluid"><div class="container business-plans"><div class="business-plans-heading-wrapper-heading-wrapper"><h1 class="business-plans-heading">Аҳоли ва тадбиркорлар учун хизматлар соҳасидаги имкониятлар</h1></div> <div class="business-cards-modal-wrapper"><a href="/public/pages/profitable-services" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/card-img1.svg" alt="icon"> <div><h4 class="business-plans__card--title">
+<section class="business-plans bs__bg container-fluid"><div class="container business-plans"><div class="business-plans-heading-wrapper"><h1 class="business-plans-heading">Aholi va tadbirkorlar uchun xizmatlar sohasidagi imkoniyatlar</h1></div> <div class="business-cards-modal-wrapper"><a href="/public/pages/profitable-services" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/card-img1.svg" alt="icon"> <div><h4 class="business-plans__card--title">
   Daromadli xizmatlar
 			 </h4> <p class="business-plans__card--desc">
         Aholi va tadbirkorlik subyektlariga faoliyatini tashkil etish mumkin bo‘lgan daromadli xizmatlar

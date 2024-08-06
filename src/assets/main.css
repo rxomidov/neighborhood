@@ -1,7 +1,7 @@
 @import './base.css';
 
 main{
-  /* background-color: #100448; */
+  background-color: #383f64;
 }
 a{
   text-decoration: none!important;
@@ -21,16 +21,21 @@ li{
 @media (min-width: 1024px) {
 }
 
+.router-link-exact-active{
+  color: white!important;
+}
+
 .onm-header {
     width: 100%;
     padding: 13px 0;
     position: fixed;
     left: 0;
     top: 40px;
-    background-color: white;
+    background-color: #383f64;
     z-index: 1000;
     font-family: 'PT Sans Caption', sans-serif;
     transition: all 0.3s ease;
+    border-bottom: 2px solid #000;
 }
 .list-style-none {
   list-style: none;
@@ -40,7 +45,7 @@ li{
   margin-left: 10px;
   border-radius: 25px;
   text-align: center;
-  background: rgb(92, 175, 122);
+  background: #00857e;
   border: 1px solid transparent;
   /* box-shadow: 0px 15px 30px rgba(0, 96, 254, 0.29); */
 }
@@ -65,7 +70,7 @@ li{
   height: 40px;
   display: block;
   padding: 0;
-  background: #F7F7F7;
+  background: #efefef;
 }
 .main-section__wrapper {
   display: flex;
@@ -101,8 +106,8 @@ li{
 }
 .onm-btn--blue {
   color: white;
-  background: rgb(92, 175, 122);
-  border: 1px solid #00857e;
+  background: #00857e;
+  border: 1px solid #035450;
 }
 
 .onm-btn {
@@ -125,7 +130,6 @@ li{
   width: 55%;
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
   line-height: 28px;
   color: #FFFFFF;
   margin: 16px 0 32px;
@@ -140,10 +144,12 @@ li{
   font-family: 'Montserrat', sans-serif;
 }
 .business-plans-heading-wrapper {
+  color: #f7f7f7;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 1rem;
 }
 .business-plans__card {
   position: relative;
@@ -155,6 +161,7 @@ li{
   display: flex;
   align-items: center;
   margin-right: 0;
+  background-color: #00857e;
 }
 .business-plans__card--item {
   display: flex;
@@ -167,21 +174,21 @@ li{
   font-weight: 700;
   font-size: 24px;
   line-height: 32px;
-  color: #000000;
+  color: #f7f7f7;
 }
 .business-plans__card--desc {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 26px;
-  color: #515151;
+  color: #eee;
 }
 .business-plans__card--more {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 26px;
-  color: #515151;
+  color: #eee;
   display: flex;
   gap: 10px;
   align-items: center;
@@ -189,7 +196,7 @@ li{
 .business-plans__card img {
   transition: 0.3s;
   display: flex;
-  filter: brightness(0);
+  filter: brightness(0) saturate(100%) invert(93%) sepia(7%) saturate(28%) hue-rotate(253deg) brightness(106%) contrast(107%);
   margin-right: 25px;
   flex-shrink: 0;
 }
@@ -215,7 +222,7 @@ li{
 }
 .main-footer {
   padding: 45px 0;
-  background-color: #c2d9ff;
+  background-color: #383f64;
 }
 .main-footer__list ul {
   list-style: none;
@@ -229,7 +236,7 @@ li{
   color: #515151;
 }
 .main-footer2 {
-  background-color: #7cadfc;
+  background-color: #5e668d;
   padding-top: 8px;
   display: flex;
 }
@@ -241,7 +248,7 @@ li{
   position: fixed;
   transform: translate(-50%, -50%);
   align-items: stretch;
-  background-color: lightsteelblue;
+  background-color: #383f64;
 }
 .onm-login {
   width: 50%;
