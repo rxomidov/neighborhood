@@ -15,7 +15,7 @@ import TheWelcome from '../components/TheWelcome.vue'
         </a></div> <div class="d-flex"><span>
           <img src="@/assets/img/svg-users.svg" alt="telegram">
         </span> <a href="https://t.me/mahalla" target="_blank">
-          <span> Расмий канал</span></a></div> <div class="d-flex"><span>
+          <span> Rasmiy kanal</span></a></div> <div class="d-flex"><span>
             <img src="@/assets/img/email.svg" alt="email"></span> 
             <a href="mailto:info@mahalla.uz"><span> info@mahalla.uz</span></a>
           </div></div> 
@@ -36,13 +36,13 @@ import TheWelcome from '../components/TheWelcome.vue'
           </a>
           </div>
           <div class="onm-header__list d-flex justify-content-between align-items-center">
-            <ul class="list-group d-flex flex-row list-style-none align-items-center justify-content-between"><li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Бош саҳифа</a></li> <li><a href="/public/pages/about" class="">Тизим ҳақида</a>
+            <ul class="list-group d-flex flex-row list-style-none align-items-center justify-content-between"><li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Bosh sahifa</a></li> <li><a href="/public/pages/about" class="">Tizim haqida</a>
             </li>
-            <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Онлайн ахборотнома</a></li> <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Савол-жавоб</a></li> <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Боғланиш</a></li>
+            <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Onlayn axborotnoma</a></li> <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Savol-javob</a></li> <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Bog‘lanish</a></li>
             </ul>
             <RouterLink to="/login"><button type="button" class="onm-btn onm-header__list-btn onm-btn-197 d-flex align-items-center justify-content-between" style="backdrop-filter: blur(20px);">
             <img src="@/assets/img/log-in-blue.svg" alt="login icon">
-            <span>Тизимга кириш</span> </button></RouterLink>
+            <span>Tizimga kirish</span> </button></RouterLink>
       </div>
     </div>
   </div>
@@ -51,7 +51,7 @@ import TheWelcome from '../components/TheWelcome.vue'
         </h1> <p>
           Mahallabay ishlash markazi va mahalla fuqarolar yig‘ini faoliyatini
           o‘zaro bog‘liq holda raqamlashtirishni nazarda tutuvchi elektron platforma
-        </p> <div class="main-section__buttons"><button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz@/assets/docs/hy_info.pdf" target="_blank"><span name="title"> Қўлланма </span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz/public/forms/study_nntt_direction" target="_blank"><span name="title"> Ўқишга йўналтириш <br> (ННТ/НТТ)</span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz/public/forms/subsidy" target="_blank"><span name="title"> Субсидияга ариза </span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://murojaat.gov.uz" target="_blank"><span name="title"> Онлайн мурожаатнома</span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz/public/pages/reestr" target="_blank"><span name="title" alt="reestr"> Электрон реестр </span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://my.chamber.uz/" target="_blank"><span name="title"> 20 минг тадбиркор </span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz/public/forms/subsidy_craftsman" target="_blank"><span name="title"> Ҳунармандчилик <br> субсидияси </span></a> </button></div> <br></div></div></section>
+        </p> <div class="main-section__buttons"><button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz@/assets/docs/hy_info.pdf" target="_blank"><span name="title"> Qo‘llanma </span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz/public/forms/study_nntt_direction" target="_blank"><span name="title"> O‘qishga yo‘naltirish (NNT/NTT)</span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz/public/forms/subsidy" target="_blank"><span name="title"> Subsidiyaga ariza </span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://murojaat.gov.uz" target="_blank"><span name="title"> Onlayn murojaatnoma</span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz/public/pages/reestr" target="_blank"><span name="title" alt="reestr"> Elektron reestr </span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://my.chamber.uz/" target="_blank"><span name="title"> 20 ming tadbirkor </span></a> </button> <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center"><a href="https://online-mahalla.uz/public/forms/subsidy_craftsman" target="_blank"><span name="title"> Hunarmandchilik <br> subsidiyasi </span></a> </button></div> <br></div></div></section>
         <section class="business-plans container-fluid"><div class="container business-plans"><div class="business-plans-heading-wrapper"><h1 class="business-plans-heading">Biznesga yo'naltiruv</h1></div> <a href="/public/pages/growthpoints-page" class="business-plans__card"><div class="business-plans__card--item"><img src="@/assets/img/house.svg" alt="icon"> <div><h4 class="business-plans__card--title">
           O‘sish nuqtalari
           </h4> <p class="business-plans__card--desc">
