@@ -36,9 +36,9 @@ import TheWelcome from '../components/TheWelcome.vue'
           </a>
           </div>
           <div class="onm-header__list d-flex justify-content-between align-items-center">
-            <ul class="list-group d-flex flex-row list-style-none align-items-center justify-content-between"><li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Bosh sahifa</a></li> <li><a  class="router-link-exact-active router-link-active" href="/public/pages/about">Tizim haqida</a>
+            <ul class="list-group d-flex flex-row list-style-none align-items-center justify-content-between"><li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Bosh sahifa</a></li> <li><RouterLink to="/about" class="router-link-exact-active router-link-active" href="/public/pages/about">Tizim haqida</RouterLink>
             </li>
-            <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Onlayn axborotnoma</a></li> <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Savol-javob</a></li> <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Bog‘lanish</a></li>
+            <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Onlayn axborotnoma</a></li> <li><a href="/" aria-current="page" class="router-link-exact-active router-link-active">Bog‘lanish</a></li>
             </ul>
             <RouterLink to="/login"><button type="button" class="onm-btn onm-header__list-btn onm-btn-197 d-flex align-items-center justify-content-between" style="backdrop-filter: blur(20px);">
             <img src="@/assets/img/log-in-blue.svg" alt="login icon">
