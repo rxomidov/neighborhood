@@ -151,7 +151,7 @@ import TheWelcome from '../components/TheWelcome.vue'
                             <img src="@/assets/img/image18.jpg" alt="gallery6" class="bg-gallery--main">
                             </div></div></div> <a href="/public/pages/page_gallery" class="">
                               <div class="onm-btn-more d-flex justify-content-center align-items-center">
-                                <button type="button" class="onm-btn onm-btn--blue d-flex align-items-center">
+                                <button type="button" class="onm-btn onm-header__list-btn d-flex align-items-center">
                                   <span name="title">Ko‘proq yuklash</span> </button>
                       </div></a>
                 </div>
