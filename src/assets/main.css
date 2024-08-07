@@ -83,7 +83,7 @@ li{
 }
 .main-section {
   margin-top: 85px;
-  height: 67vh;
+  /* height: 67vh; */
   position: relative;
   background-size: cover;
   background-repeat: no-repeat;
@@ -124,7 +124,13 @@ li{
   color: white;
 }
 .onm-btn--blue {
-  padding: 32px;
+  padding: 144px 32px;
+  display: flex;
+  justify-content: center;
+  transition: 0.3s ease-in-out;
+}
+.onm-btn--blue:hover {
+  filter: brightness(0.8);
 }
 .main-section__wrapper p {
   width: 55%;
