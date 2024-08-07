@@ -15,7 +15,7 @@
                 <input placeholder="Парол" type="password"> <span class="onm-login__eye">
                   <img src="https://online-mahalla.uz/media/store/img/hide-password.svg" alt="online-mahalla"></span></span>
                   </div> <!----> <div class="onm-login__actions d-flex flex-column align-items-center">
-                    <button type="button" class="onm-btn onm-btn--blue onm-btn--r5 onm-btn--w100p d-flex align-items-center my-3">
+                    <button type="button" class="onm-btn onm-header__list-btn onm-btn--r5 onm-btn--w100p d-flex align-items-center my-3">
                       <span>Tizimga kirish</span> </button> 
                       <button type="button" class="onm-btn onm-btn--dark-blue onm-btn--r5 onm-btn--w100p d-flex align-items-center"><span>ERI bilan kirish</span>
                        </button></div></form></div> <div class="onm-login__banner d-md-flex align-items-center justify-content-center"><div class="onm-login__banner--logo">
